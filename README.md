@@ -1,4 +1,4 @@
-# Accessibility-Study
+# CS study
 
 [혼자 공부하는 컴퓨터 구조 운영체제 도서](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=299521395)를 중심으로 진행하는 컴퓨터 구조 스터디
 
